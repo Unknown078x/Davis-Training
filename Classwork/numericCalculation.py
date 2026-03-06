@@ -1,4 +1,3 @@
-#taking input from user
 num1=10
 num2=5
 
