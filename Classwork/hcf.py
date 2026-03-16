@@ -11,4 +11,5 @@ else:
         num1=num2
         num2=rem
     #printing the hcf
+
     print(f"The HCF is: {num1}")
