@@ -2,11 +2,14 @@
 def oddEven(num):
     #checking if the number is divisible by 2 or not
     if num%2==0:
-        print(num," is an Even Number")
+        return True
     else:
-        print(num," is an Odd Number")
+        return False
 
 #taking number from the user
 num=int(input("Enter a number:"))
-#calling the function
-oddEven(num)
+#checking the number is even or odd by calling the function
+if (oddEven(num)):
+    print(num," is Even")
+else:
+    print(num," is odd")
