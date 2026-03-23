@@ -6,4 +6,5 @@ for s in lst:
     if s:          
         result.append(s)
 
+
 print(result)
