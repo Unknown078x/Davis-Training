@@ -10,5 +10,4 @@ unique = set(merged)
 # Step 3: Convert back to list and sort
 result = list(unique)
 result.sort()
-
 print(result)
