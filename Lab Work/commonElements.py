@@ -9,7 +9,6 @@ for i in list1:
     for j in list2:
         if i==j:
             dup.add(j)
-
 # chanhing the set into list
 duplicate=list(dup)
 print(duplicate)
