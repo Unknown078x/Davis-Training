@@ -4,7 +4,6 @@ flat = []
 
 # outer list pe loop
 for sublist in nested:
-    
     # inner list ke elements pe loop
     for num in sublist:
         flat.append(num)
