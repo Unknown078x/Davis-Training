@@ -2,7 +2,6 @@ t = (1, 2, 3, 4, 5)
 target = 5
 
 pairs = []
-
 # loop through tuple
 for i in range(len(t)):
     
