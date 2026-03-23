@@ -6,7 +6,6 @@ min_val = t[0]
 
 # ab baaki elements check karo
 for num in t:
-    
     if num > max_val:
         max_val = num
         
