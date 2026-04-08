@@ -11,6 +11,7 @@ while True:
     print("6. Hemisphere")
     print("7. Exit")
 
+
     choice = int(input("Enter choice: "))
 
     if choice == 7:
