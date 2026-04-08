@@ -3,7 +3,6 @@ from numericCalculation import *
 a=20
 b=5
 
-
 # calling functions from the numeric calculation module
 print(f"Sum of {a} and {b} is {calculateSum(a,b)}")
 print(f"Difference of {a} and {b} is {calculateDifference(a,b)}")
