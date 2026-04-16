@@ -3,12 +3,12 @@
 
 # Algorithm:
 # Step-1: taking shift value from user
-# Step-1: opening the file in read mode
-# Step-1: reading content of the file and save it in a variable
-# Step-1: loop to iterate through the content of the file
-# Step-1: checking if the word is alpha and is lower
-# Step-1: now using the caesar cipher engine for encryption
-# Step-1: opening new file in write mode and writing the encrypted values into it
+# Step-2: opening the file in read mode
+# Step-3: reading content of the file and save it in a variable
+# Step-4: loop to iterate through the content of the file
+# Step-5: checking if the word is alpha and is lower
+# Step-6: now using the caesar cipher engine for encryption
+# Step-7: opening new file in write mode and writing the encrypted values into it
 
 
 # LOGIC:
