@@ -13,10 +13,10 @@
 
 # LOGIC:
 
-with open("data.txt", "r") as file:
+with open("Classwork/data.txt", "r") as file:
     words = file.read().split()
 
-with open("emails.txt", "w") as new_file:
+with open("Classwork/emails.txt", "w") as new_file:
     for word in words:
         # basic email check
         if "@" in word and "." in word:
