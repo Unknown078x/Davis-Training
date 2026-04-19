@@ -1,4 +1,0 @@
-lucky,80,modinagar
-manshi,78,meerut
-nirbhay,79,modinagar
-aryan,65,ghaziabad
