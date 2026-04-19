@@ -1,0 +1,11 @@
+The Chernobyl disaster didn’t happen simply because of Soviet Communist top-down regime. The Challenger disaster didn’t happen simply because of the O-ring seals failure. The second wave of the Coronavirus didn’t take over India simply due to lack of adequate healthcare in the country. A marketing strategy doesn’t fail simply because you didn’t include animal photos. These so called “root causes” are part of many reasons, and they are definitely not the main reason.
+
+On 26 April 1986, a group of nuclear engineers wanted to test a simulation of an electrical power outage to create a safety procedure in a nuclear power plant. They wanted to test if it was possible to maintain the nuclear reactor cooling water circulation until the back-up electrical generators could provide power. The goal was to make sure the reactor won’t have to be completely shut down during power outage.
+
+Three such tests had been conducted in the previous four years, but they had failed to provide a solution. This fourth attempt didn’t happen as scheduled. An unplanned 10-hour delay caused a completely unprepared operating shift to handle the job.
+
+The reactor power had to be decreased as part of the test. This meant disabled the safety system. But the power unexpectedly dropped to near-zero during the process. The operators could partially restore the power, but this put the reactor in an unstable condition.
+
+Since the safety system was off, the risk wasn’t evident. Moreover, the operating instructions didn’t cover this use case, so the operators proceeded with the planned test.
+
+Upon completion of the test, when they triggered the reactor to shut down, a combination of unstable conditions and reactor design flaws caused an uncontrolled nuclear chain reaction. The rest, as they say, was the Chernobyl nuclear disaster.
