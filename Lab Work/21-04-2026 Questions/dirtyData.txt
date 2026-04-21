@@ -1,0 +1,8 @@
+name,age,salary
+ aman ,21,25000
+riya,22,30000
+,23,28000
+karan,twenty,20000
+rahul,25,
+karan ,20,20000
+invalidrow

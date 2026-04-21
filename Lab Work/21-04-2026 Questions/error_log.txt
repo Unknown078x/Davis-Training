@@ -1,0 +1,6 @@
+ERROR: Failed to load module
+WARNING: Disk almost full
+INFO: Process started
+ERROR: Null pointer exception
+ERROR: Database connection lost
+WARNING: High memory usage
