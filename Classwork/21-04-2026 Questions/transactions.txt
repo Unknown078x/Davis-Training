@@ -1,0 +1,7 @@
+A1,deposit,1000
+A2,deposit,500
+A1,withdraw,200
+A2,withdraw,200
+A1,withdraw,900
+InvalidRow
+A2,deposit,abc

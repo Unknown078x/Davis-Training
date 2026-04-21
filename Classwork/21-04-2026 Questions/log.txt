@@ -1,0 +1,13 @@
+INFO User logged in
+ERROR Failed to load module
+WARNING Disk space low
+ERROR Failed to load module
+INFO User logged out
+ERROR Database connection lost
+INFO User logged in
+ERROR Failed to load module
+WARNING Disk space low
+ERROR Database connection lost
+INFO Backup completed
+ERROR Invalid user input
+ERROR Invalid user input

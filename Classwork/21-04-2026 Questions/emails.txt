@@ -1,0 +1,6 @@
+Hello contact us at test@gmail.com for info.
+Invalid email test@@gmail.com should not be taken.
+Send mail to user123@yahoo.com or support@company
+Another one: hello.world@domain.in
+Duplicate email test@gmail.com
+Wrong format user@domain
