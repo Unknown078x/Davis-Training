@@ -15,34 +15,44 @@
 # 4. Count how many times each ERROR line appears in original file.
 # 5. Store result in a dictionary and print.
 
-# Code:
 
+# code:
+
+
+# file path 
 file_path = "Classwork/21-04-2026 Questions/log.txt"
 
-unique_logs = set()
 error_count = {}
 
-# read file and remove duplicates
+# opening file in read mode
 with open(file_path, "r") as file:
+    # reading all lines and storing them to a list
     lines = file.readlines()
-    for line in lines:
-        line = line.strip()
-        unique_logs.add(line)
+    if len(lines)>0:
+        unique_logs=set(lines)
 
-# filter ERROR logs and count occurrences
-for log in unique_logs:
-    if "ERROR" in log:
-        count = 0
-        for line in lines:
-            if log == line.strip():
-                count += 1
-        error_count[log] = count
+# loop on original lines
+for line in lines:
+    # cleaning lines (removing extra spaces)
+    line = line.strip()
+    
+    # checking if any line have exactly [ERROR] 
+    if " [ERROR] " in line:
+        # checking if the error already exists in the dictionary or not
+        if line in error_count:
+            #increasing the count of the error by 1
+            error_count[line] += 1
+        else:
+            # if the error is first time, then initialize it by 1
+            error_count[line] = 1
 
-print("ERROR Log Counts:")
+# printing output
+print("ERROR Log Counts:\n")
+
+#printing log and count from the dictionary
 for log, count in error_count.items():
+    # printing the log message and its count
     print(log, "->", count)
-
-
 
 # OUTPUT:
 # ERROR Log Counts:
