@@ -1,5 +1,4 @@
 # given two arrays and we'll subtract them using numpy module
-
 import numpy as np
 
 # creating first array
